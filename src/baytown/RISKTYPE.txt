@@ -1,5 +1,0 @@
-%F	risk_type_id	seq_num	risk_type	parent_risk_type_id
-%R	121	0	Performance & Reliability	660
-%R	124	1	Resources	671
-%R	660	75401	Quality	
-%R	671	40001	People	

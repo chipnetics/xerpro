@@ -1,2 +1,0 @@
-%F	proc_id	task_id	proj_id	seq_num	proc_name	complete_flag	proc_wt	complete_pct	proc_descr
-%R	28760	94133	4251	0	Refer to Op Manual for detailed Procedure	N	1	0	﻿

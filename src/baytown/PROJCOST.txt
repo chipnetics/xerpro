@@ -1,2 +1,0 @@
-%F	cost_item_id	acct_id	pobs_id	cost_type_id	proj_id	task_id	cost_name	po_number	vendor_name	act_cost	cost_per_qty	remain_cost	target_cost	cost_load_type	auto_compute_act_flag	target_qty	qty_name	cost_descr	contract_manager_import
-%R	19257	668			4251	94132	Rent diagnostic tool			0.0000	250.0000	250.0000	250.0000	CL_Uniform	N	1		﻿	

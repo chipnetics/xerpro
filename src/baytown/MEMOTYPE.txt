@@ -1,4 +1,0 @@
-%F	memo_type_id	seq_num	eps_flag	proj_flag	wbs_flag	task_flag	memo_type
-%R	1	8	Y	Y	Y	Y	Sponsor Feedback
-%R	6	3400	Y	Y	Y	Y	Tools / Techniques
-%R	95	24	N	Y	Y	Y	Recent Accomplishments

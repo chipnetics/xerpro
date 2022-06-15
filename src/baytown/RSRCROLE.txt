@@ -1,4 +1,0 @@
-%F	rsrc_id	role_id	skill_level	role_short_name	role_name	rsrc_short_name	rsrc_name	rsrc_type	rsrc_role_id
-%R	6585	1567	3	Trades	Trades	Elec	Electrician	RT_Labor	1567
-%R	6594	1166	3	Engr	Engineer	FieldEng	Field Engineer	RT_Labor	1166
-%R	6649	1166	3	Engr	Engineer	InsEng	Instrumentation Engineer	RT_Labor	1166

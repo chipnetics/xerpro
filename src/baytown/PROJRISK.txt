@@ -1,7 +1,0 @@
-%F	risk_id	risk_code	proj_id	add_date	status_code	risk_name	risk_type_id	rsrc_id	risk_desc	risk_to_type	identified_by_id	response_type	response_text	pre_rsp_prblty	pre_rsp_schd_prblty	pre_rsp_cost_prblty	post_rsp_prblty	post_rsp_schd_prblty	post_rsp_cost_prblty	risk_cause	risk_effect	notes	risk_descr
-%R	3036	R001	4251		RS_Propose	Leak during Hydro test	121	6736		RT_Threat				H	M	M							
-%R	3037	R002	4251		RS_Propose	Turbine alignment	121	6736		RT_Threat				H	L	VL							
-%R	3038	R003	4251		RS_Open	Extensive leak repair	121	6594		RT_Threat				H	H	H							
-%R	3039	R004	4251		RS_Open	Difficulty troubleshooting alarm issue	121	6649		RT_Threat				H	L	L							
-%R	3040	R005	4251		RS_Open	Valve installation issues	121	6594		RT_Threat				L	L	VL							
-%R	3041	R006	4251		RS_Open	Lack of skilled labor	124	6604		RT_Threat		RP_Reduce	Increase pay and perks	VH	VH	H	L	H					

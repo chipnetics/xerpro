@@ -1,9 +1,0 @@
-%F	udf_type_id	fk_id	proj_id	udf_date	udf_number	udf_text	udf_code_id
-%R	129	4251	4251			UDF_G3	
-%R	130	4251	4251			UDF_G3	
-%R	131	4251	4251			UDF_G3	
-%R	132	4251	4251			UDF_G3	
-%R	135	4251	4251			UDF_G3	
-%R	161	4251	4251			UDF_G1	
-%R	617	4251	4251			UDF_G1	
-%E
