@@ -1,0 +1,2 @@
+%F	doc_id	doc_seq_num	deliv_flag	doc_name	parent_doc_id	proj_id	doc_status_id	doc_catg_id	doc_date	version_name	guid	tmpl_guid	doc_short_name	author_name	private_loc	public_loc	doc_mgmt_type	cr_external_doc_key	doc_content
+%R	19818	0	N	Operator's Manual		4251			1999-12-14 00:00	1.0	/Rt8SCdTdECErZ22PLT1Tg		0010934			C:\Program Files\Primavera Enterprise\Project Manager\Documents\Community Energy Nuclear Power Station Operator's Manual.doc	DM_Local		<HTML><BODY bgColor=#ffffff>Operator's manual describing   procedures for operating a nuclear power plant</BODY></HTML>

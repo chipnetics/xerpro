@@ -1,0 +1,9 @@
+%F	role_id	parent_role_id	seq_num	role_name	role_short_name	pobs_id	def_cost_qty_link_flag	cost_qty_type	role_descr	last_checksum
+%R	1165		2	E&C Roles	E&C		Y	QT_Hour	﻿	
+%R	1166	1165	201	Engineer	Engr		Y	QT_Hour	<HTML><BODY></BODY></HTML>	
+%R	1416		1507	Power Generation Specific Roles	Power		Y	QT_Hour	﻿	
+%R	1427	1416	1243212	Operations	Ops		Y	QT_Hour	﻿	
+%R	1428	1416	1243213	Maintenance	Maintenance		Y	QT_Hour	﻿	
+%R	1430	1427	1243424	Operator	OP		Y	QT_Hour	﻿	
+%R	1432	1427	1243224	Lab Technicians	Lab		Y	QT_Hour	﻿	
+%R	1567	1165	0	Trades	Trades		Y	QT_Hour	﻿	

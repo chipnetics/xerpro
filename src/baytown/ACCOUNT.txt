@@ -1,0 +1,2 @@
+%F	acct_id	parent_acct_id	acct_seq_num	acct_name	acct_short_name	acct_descr
+%R	668		62806	00400	00400	﻿

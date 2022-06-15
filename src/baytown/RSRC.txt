@@ -1,0 +1,9 @@
+%F	rsrc_id	parent_rsrc_id	clndr_id	role_id	shift_id	user_id	pobs_id	guid	rsrc_seq_num	email_addr	employee_code	office_phone	other_phone	rsrc_name	rsrc_short_name	rsrc_title_name	def_qty_per_hr	cost_qty_type	ot_factor	active_flag	auto_compute_act_flag	def_cost_qty_link_flag	ot_flag	curr_id	unit_id	rsrc_type	location_id	rsrc_notes	load_tasks_flag	level_flag	last_checksum
+%R	6571		5829					JVyoBhYevkmiVZ63C0O7Mw	1					E&C Resources	E&C Resources		1	QT_Hour		Y	N	Y	N	1		RT_Labor		﻿			
+%R	6576	6571	5829					EZqFz32Q9kOZBQZWgE1T7w	204					Trades	Trades		1	QT_Hour		Y	N	Y	N	1		RT_Labor		﻿			
+%R	6579	6571	5829					310cEC+yG0Ce61KRV2idaw	708					Engineering Department	Engineering		1	QT_Hour		Y	Y	Y	N	1		RT_Labor		﻿			
+%R	6585	6576	5829	1567				aJ0j7wgG7Ua/bNcO6VTKvg	3					Electrician	Elec		1	QT_Hour		Y	Y	Y	N	1		RT_Labor		﻿			
+%R	6594	6579	5829	1166				dv/CUlTgRkq6FP1pyeofWQ	1					Field Engineer	FieldEng		1	QT_Hour		Y	Y	Y	N	1		RT_Labor		﻿			
+%R	6649	6579	5829	1166				NQ7uVBqN6EaLHjgy9pjd/w	8					Instrumentation Engineer	InsEng			QT_Hour		Y	Y	Y	Y	1		RT_Labor		﻿			
+%R	6736	6576	5829					nRqeZyuBmEOt4DWDwbQgmQ	2					Operations Test Group	OPTGP		1	QT_Hour	1	Y	Y	Y	N	1		RT_Labor		﻿			
+%R	6743	6576	6205					FfeS4i5QxE+D07IHLHnaqQ	1					Hydroblaster	Hydro		1	QT_Hour		Y	Y	Y	Y	1		RT_Labor		﻿			

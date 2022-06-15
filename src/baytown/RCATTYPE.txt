@@ -1,0 +1,5 @@
+%F	rsrc_catg_type_id	seq_num	rsrc_catg_short_len	rsrc_catg_type
+%R	10	40000	20	Location
+%R	15	50001	20	Classification
+%R	85	50101	20	Plant
+%R	104	20000	16	Department

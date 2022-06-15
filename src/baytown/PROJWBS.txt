@@ -1,0 +1,91 @@
+%F	wbs_id	proj_id	obs_id	seq_num	est_wt	proj_node_flag	sum_data_flag	status_code	wbs_short_name	wbs_name	phase_id	parent_wbs_id	ev_user_pct	ev_etc_user_value	orig_cost	indep_remain_total_cost	ann_dscnt_rate_pct	dscnt_period_type	indep_remain_work_qty	anticip_start_date	anticip_end_date	ev_compute_type	ev_etc_compute_type	guid	tmpl_guid	plan_open_state
+%R	24310	4251	1321	100	1	Y	Y	WS_Open	NRG00870	Baytown, TX - Offline Maintenance Work		18132	6	0.88	65000.0000	0.0000	5	Month	0			EC_Cmp_pct	EE_PF_cpi	d2sBhuDHs026/iXmgVTsXA		
+%R	24311	4251	1321	12030	1	N	Y	WS_Open	FO	Forced Outage		24310			0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	HHsMIIe0UkCcOgvskKn5vQ		
+%R	24312	4251	1321	500	1	N	N	WS_Open	PSD	Plant Shutdown		24311	6	0.88	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	te+UI7jbw0ehy9vK7sIifg		
+%R	24313	4251	1321	502	1	N	N	WS_Open	CVC	Chemical and Volume Control		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	gfLd6Z0cSk+RUX6npsOQWw		
+%R	24314	4251	1321	531	1	N	N	WS_Open	OL	On Line		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	cJBwBdKIxUezGIg9dXikRw		
+%R	24315	4251	1321	503	1	N	N	WS_Open	PS	Power Systems		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	1srMAvd/D0GESKxc8oFvzg		
+%R	24316	4251	1321	506	1	N	N	WS_Open	IB	Instrument Bus		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	PtmmX9urkU2clbQIMwyy4A		
+%R	24317	4251	1321	516	1	N	N	WS_Open	Reactor	Reactor		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	Vipdk66Rdk6KABqKCPDdgw		
+%R	24318	4251	1321	525	1	N	N	WS_Open	Gen	Generator		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	SDyNBk/1Gka79WCGMsDEIw		
+%R	24319	4251	1321	510	1	N	N	WS_Open	HD	Heater Drain, MSR Drains/Vents		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	2ZBpNgGoQky40sdxQnat2Q		
+%R	24320	4251	1321	511	1	N	N	WS_Open	Steam	Steam		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	Ktf6UaEaLkOTTnZ9rQfLuQ		
+%R	24321	4251	1321	507	1	N	N	WS_Open	FW	Feedwater		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	QBXjV+Wm8kmfd9rPu7SrFQ		
+%R	24322	4251	1321	530	1	N	N	WS_Open	PSU	Plant Start Up		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	/v8XKLURgEuD6W1VpNjD4Q		
+%R	24323	4251	1321	515	1	N	N	WS_Open	MT	Main Turbine		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	H9L8Pyw540eyLyhegcgN7g		
+%R	24324	4251	1321	529	1	N	N	WS_Open	VCB	Vapor Containment Building		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	jlXZWG4M1U6kaDiTM5XHUg		
+%R	24325	4251	1321	528	1	N	N	WS_Open	SI	Safety Injection/Recirculation		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	sUQRm0+3TEytPiAbhWmffQ		
+%R	24326	4251	1321	527	1	N	N	WS_Open	SW	Service Water		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	quKr9+D6RkmJzuSGK+dxsg		
+%R	24327	4251	1321	526	1	N	N	WS_Open	RHR	Residual Heat Removal		24311	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	wHzcq92HC0O3jHj25wHkqg		
+%R	24328	4251	1321	1000	1	N	N	WS_Open	RC	Reactor Coolent		24317	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	QIrO2NOmt0ejUnc5SlZiQQ		
+%R	24329	4251	1321	500	1	N	N	WS_Open	RCD	Rod Control Drive		24317	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	M0Lgzg/l4EOkccmDDDL83Q		
+%R	24330	4251	1321	1000	1	N	N	WS_Open	ES	Extraction Steam		24320	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	Z9m62MoFUEGilRxoRo5PEg		
+%R	24331	4251	1321	1000	1	N	N	WS_Open	MG	Main Generator		24318	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	XyoEwZIOAE2hFaw8Mr5fPQ		
+%R	24332	4251	1321	1500	1	N	N	WS_Open	LPS	Low Pressure Steam Dump		24320	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	ip7dswHe7EKKoh9pb4UWmg		
+%R	24333	4251	1321	1501	1	N	N	WS_Open	GECI	Generator Excitation, Control & Instrumentation		24318	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	UTJo2jVW+EyVZ/wh3bY2sg		
+%R	24334	4251	1321	500	1	N	N	WS_Open	MS	Main Steam		24320	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	C3C3zE/pKUeaks6k4HRLeA		
+%R	24335	4251	1321	1000	1	N	N	WS_Open	MF	Main Feedwater		24321	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	0Sf/uFo7wUSkiYw9sDTCrw		
+%R	24336	4251	1321	1500	1	N	N	WS_Open	P	Pressurizer		24317	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	q2fsH1Zyx0CsMx1Q8qfU1g		
+%R	24337	4251	1321	1000	1	N	N	WS_Open	69KV	69 KV		24315	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	mP0ecyLwwEuPPNDvKPv/+Q		
+%R	24338	4251	1321	500	1	N	N	WS_Open	138KV	138 KV		24315	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	atdyr+fI8kqXqmxrOlF//g		
+%R	24339	4251	1321	500	1	N	N	WS_Open	MFPS	Main Feedwater Pump and Service		24321	0	0	0.0000	0.0000			0			EC_Cmp_pct	EE_PF_cpi	+NmDZ78vi0mJ4m3jRxSu5g		
+%R	24410	4351	1321	100	1	Y	Y	WS_Open	NRG00800	Sunset Gorge - Routine Maintenance Work		18132	6	0.88	87000.0000	0.0000	5					EC_Cmp_pct	EE_PF_cpi	9MYAgJb9TDykcCLTgCBPwA		
+%R	24411	4351	1321	12030	1	N	Y	WS_Open	FO	Forced Outage		24410			0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	cVDRsXYYTX+e3jQTf2cPaQ		
+%R	24412	4351	1321	500	1	N	Y	WS_Open	PSD	Plant Shutdown		24411	6	0.88	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	xMvaNWEFRgmbW04Py6ATew		
+%R	24413	4351	1321	502	1	N	Y	WS_Open	CVC	Chemical and Volume Control		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	Dbn4qxwqQFOi3aoV9Q1XSQ		
+%R	24414	4351	1321	531	1	N	Y	WS_Open	OL	On Line		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	1vry7kFXRWuuk35nCn+oXg		
+%R	24415	4351	1321	503	1	N	Y	WS_Open	PS	Power Systems		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	cILTqSm1TLeAV7OhgAimeg		
+%R	24416	4351	1321	1000	1	N	Y	WS_Open	69KV	69 KV		24415	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	0EC9WCzTQKmJLiKKxWM/7Q		
+%R	24417	4351	1321	500	1	N	Y	WS_Open	138KV	138 KV		24415	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	SlwWpZCrTC6cy5IVUXhSJQ		
+%R	24418	4351	1321	506	1	N	Y	WS_Open	IB	Instrument Bus		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	tNDCyC6aTXOSemGqj7bd4A		
+%R	24419	4351	1321	516	1	N	Y	WS_Open	Reactor	Reactor		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	4A6SWPaiRlWcIUuFATCDRg		
+%R	24420	4351	1321	1000	1	N	Y	WS_Open	RC	Reactor Coolent		24419	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	e2i+cE0AQjaO5bLN/Fsdgg		
+%R	24421	4351	1321	500	1	N	Y	WS_Open	RCD	Rod Control Drive		24419	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	dmP/oijtSm+r9hfkZCryuQ		
+%R	24422	4351	1321	1500	1	N	Y	WS_Open	P	Pressurizer		24419	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	W82PIZnbS2eYmcN4wkK09g		
+%R	24423	4351	1321	525	1	N	Y	WS_Open	Gen	Generator		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	MKOmkkdvR4WrUtAD27i8Qw		
+%R	24424	4351	1321	1000	1	N	Y	WS_Open	MG	Main Generator		24423	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	4Q4JuyWwQIeJhDXNNQ4VPg		
+%R	24425	4351	1321	1501	1	N	Y	WS_Open	GECI	Generator Excitation, Control & Instrumentation		24423	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	RyhYNxztT+KgIjmjWYPz8A		
+%R	24426	4351	1321	510	1	N	Y	WS_Open	HD	Heater Drain, MSR Drains/Vents		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	T/jFKmKGShCSE6HSPdnfsA		
+%R	24427	4351	1321	511	1	N	Y	WS_Open	Steam	Steam		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	p+oveIpbQEyhk1P8S/uFJA		
+%R	24428	4351	1321	1000	1	N	Y	WS_Open	ES	Extraction Steam		24427	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	JA8VknvrStmas7Gx/5sVQQ		
+%R	24429	4351	1321	1500	1	N	Y	WS_Open	LPS	Low Pressure Steam Dump		24427	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	sIA37xgOSoGgTwxerfEl6Q		
+%R	24430	4351	1321	500	1	N	Y	WS_Open	MS	Main Steam		24427	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	delhtI/xT9iUqUdmjNdOrA		
+%R	24431	4351	1321	507	1	N	Y	WS_Open	FW	Feedwater		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	rhYjhaaoQBC8bKPCRGDDOw		
+%R	24432	4351	1321	1000	1	N	Y	WS_Open	MF	Main Feedwater		24431	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	JTNBGay2QBKXJ+dcdwHchw		
+%R	24433	4351	1321	500	1	N	Y	WS_Open	MFPS	Main Feedwater Pump and Service		24431	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	mraMZj8CQ2ChvltYIH7bAQ		
+%R	24434	4351	1321	530	1	N	Y	WS_Open	PSU	Plant Start Up		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	rRfLTPpwRPSwNtaQwAeqKg		
+%R	24435	4351	1321	515	1	N	Y	WS_Open	MT	Main Turbine		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	sMMHn3/3RrepqE6IbY40dg		
+%R	24436	4351	1321	529	1	N	Y	WS_Open	VCB	Vapor Containment Building		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	q2CeD5pURO+iS3wJRK9U/Q		
+%R	24437	4351	1321	528	1	N	Y	WS_Open	SI	Safety Injection/Recirculation		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	3QpwaPt5TGG5D1kKe3y0Sg		
+%R	24438	4351	1321	527	1	N	Y	WS_Open	SW	Service Water		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	9WTT73HFRXKz7EZF0zB+Yg		
+%R	24439	4351	1321	526	1	N	Y	WS_Open	RHR	Residual Heat Removal		24411	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	zK/jbv8vTbGT2HBJp+v2eQ		
+%R	24441	4353	1321	100	1	Y	Y	WS_Open	NRG00820	Johnstown - Routine Maintenance Work		18132	6	0.88	87000.0000	0.0000	5					EC_Cmp_pct	EE_PF_cpi	K0QvhORhQbO2Dwv+nHYBDA		
+%R	24442	4353	1321	12030	1	N	Y	WS_Open	FO	Forced Outage		24441			0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	1St+eLhxS6ePy+35TsXoXg		
+%R	24443	4353	1321	500	1	N	N	WS_Open	PSD	Plant Shutdown		24442	6	0.88	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	i3ulEyEgSFC9ikdkg9P14g		
+%R	24444	4353	1321	502	1	N	N	WS_Open	CVC	Chemical and Volume Control		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	PeRbi+KzQZCqrM4NVzKjNQ		
+%R	24445	4353	1321	531	1	N	N	WS_Open	OL	On Line		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	PE6DlWSpT4WPL1sHHoA+TA		
+%R	24446	4353	1321	503	1	N	N	WS_Open	PS	Power Systems		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	Ao8QQoGhRFuwWXdB5I2fhw		
+%R	24447	4353	1321	1000	1	N	N	WS_Open	69KV	69 KV		24446	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	mHO/bDB3RYOvJJVLKTdEIg		
+%R	24448	4353	1321	500	1	N	N	WS_Open	138KV	138 KV		24446	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	2XzWyya6R02XIgZKuho2NQ		
+%R	24449	4353	1321	506	1	N	N	WS_Open	IB	Instrument Bus		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	BAmNNI1SQUWsOIByde4+2A		
+%R	24450	4353	1321	516	1	N	N	WS_Open	Reactor	Reactor		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	IVJzMS0QT7iGGkbn9ObyiA		
+%R	24451	4353	1321	1000	1	N	N	WS_Open	RC	Reactor Coolent		24450	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	daRT7n5ES5CANDbE8VuKag		
+%R	24452	4353	1321	500	1	N	N	WS_Open	RCD	Rod Control Drive		24450	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	yXvdw/j3Scy3SVPiql+G3g		
+%R	24453	4353	1321	1500	1	N	N	WS_Open	P	Pressurizer		24450	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	M79GZ5NoTtuY27uKI8teKA		
+%R	24454	4353	1321	525	1	N	N	WS_Open	Gen	Generator		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	O/vht02WTuWuhAwWO1hMVg		
+%R	24455	4353	1321	1000	1	N	N	WS_Open	MG	Main Generator		24454	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	x0sHRTH2QFqUktTEHSsCfw		
+%R	24456	4353	1321	1501	1	N	N	WS_Open	GECI	Generator Excitation, Control & Instrumentation		24454	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	nxfN6UJISf2M+JRZ/q/CHw		
+%R	24457	4353	1321	510	1	N	N	WS_Open	HD	Heater Drain, MSR Drains/Vents		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	ausAMuHpQiikf48jBfktRQ		
+%R	24458	4353	1321	511	1	N	N	WS_Open	Steam	Steam		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	eybo/0FAQXWfBwdxvejGjg		
+%R	24459	4353	1321	1000	1	N	N	WS_Open	ES	Extraction Steam		24458	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	BJ0zNgWUSHaEu9wKXysnZA		
+%R	24460	4353	1321	1500	1	N	N	WS_Open	LPS	Low Pressure Steam Dump		24458	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	UdGM26tKR3Gis2DqRPtVFQ		
+%R	24461	4353	1321	500	1	N	N	WS_Open	MS	Main Steam		24458	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	sq2yXpNDTBCktXo5fCHzXw		
+%R	24462	4353	1321	507	1	N	N	WS_Open	FW	Feedwater		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	+5bpyIAIROC2NLoS7GZDhg		
+%R	24463	4353	1321	1000	1	N	N	WS_Open	MF	Main Feedwater		24462	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	7Vvd2PxCRUaeKAMh/9SNOA		
+%R	24464	4353	1321	500	1	N	N	WS_Open	MFPS	Main Feedwater Pump and Service		24462	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	IbiXwqP5ToilGbkPMPut6w		
+%R	24465	4353	1321	530	1	N	N	WS_Open	PSU	Plant Start Up		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	CTX8lraATGu3qd4AHS1xuA		
+%R	24466	4353	1321	515	1	N	N	WS_Open	MT	Main Turbine		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	OcUdkfe0QjeDUbWXEjwR3w		
+%R	24467	4353	1321	529	1	N	N	WS_Open	VCB	Vapor Containment Building		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	A562GHn+SKi2QbjThq+EVw		
+%R	24468	4353	1321	528	1	N	N	WS_Open	SI	Safety Injection/Recirculation		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	1eI862OQS+Gkj9Hh6G2jiA		
+%R	24469	4353	1321	527	1	N	N	WS_Open	SW	Service Water		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	aUPfuMt/Qgauos+OaQlKvg		
+%R	24470	4353	1321	526	1	N	N	WS_Open	RHR	Residual Heat Removal		24442	0	0	0.0000	0.0000						EC_Cmp_pct	EE_PF_cpi	nIO6uR1RS7GzeOZqTZDRaQ		

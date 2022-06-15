@@ -1,0 +1,2 @@
+%F	memo_id	task_id	memo_type_id	proj_id	task_memo
+%R	26209	94132	6	4251	<html>  <head>      </head>  <body>    when using the diagnostic tool, ensure the frequency is set to 2.4 Ghz  </body></html>

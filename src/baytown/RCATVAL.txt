@@ -1,0 +1,13 @@
+%F	rsrc_catg_id	rsrc_catg_type_id	seq_num	rsrc_catg_short_name	rsrc_catg_name	parent_rsrc_catg_id
+%R	10	10	160004	Europe	Europe	
+%R	12	10	90000	North America	North America	
+%R	16	10	160001	Brazil	Brazil	
+%R	50	15	250000	FTIC	Full Time Individual Contributor	
+%R	271	10	200001	Australia	Australia	
+%R	622	85	390000	Plant B	Plant B	
+%R	623	85	400000	Plant C	Plant C	
+%R	625	85	420000	Plant E	Plant E	
+%R	759	104	800	FAC	Facilities	
+%R	760	104	900	ENG	Engineering	
+%R	763	104	901	CONST	Construction	
+%R	764	15	240001	FTTrade	Trades	

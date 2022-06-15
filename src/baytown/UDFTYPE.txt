@@ -1,0 +1,8 @@
+%F	udf_type_id	table_name	udf_type_name	udf_type_label	logical_data_type	super_flag	indicator_expression	summary_indicator_expression
+%R	129	PROJECT	user_field_129	Schedule Status	FT_STATICTYPE	N		
+%R	130	PROJECT	user_field_130	Cost Status	FT_STATICTYPE	N		
+%R	131	PROJECT	user_field_131	Scope Status	FT_STATICTYPE	N		
+%R	132	PROJECT	user_field_132	Quality	FT_STATICTYPE	N		
+%R	135	PROJECT	user_field_135	Overall Status	FT_STATICTYPE	N		
+%R	161	PROJECT	user_field_161	Risk Assessment	FT_STATICTYPE	N		
+%R	617	PROJECT	user_field_617	Cost-Budget Variance	FT_STATICTYPE	N		
