@@ -5,5 +5,5 @@ src/*.txt
 src/*.bat
 src/*.pl
 src/xerpro
-src/baytown
+src/baytown/*
 
