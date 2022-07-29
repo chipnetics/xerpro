@@ -147,6 +147,44 @@ fn main()
 		prolog_out.writeln("activity(${elem.task_id},\"${elem.task_code}\",\"${elem.task_name}\").") or {panic(err)}
 	}
 
+
+	// TODO
+	prolog_out.writeln("") or {panic(err)}
+	prolog_out.writeln("write_activity_name(Activity) :-
+    activity(Activity,Activity_ID,Activity_Name),
+    format('~w ~w ~w ~n',[Activity,Activity_ID,Activity_Name]).
+
+write_activity_list(Activity_List) :-
+    maplist(write_activity_name, Activity_List).
+
+named_path(Start,Finish,Path) :-
+    raw_path(Start,Finish,Path),
+    maplist(write_activity_name, Path).
+
+raw_path(Start,Finish,Path) :-
+    travel(Start,Finish,[Start],Q), 
+    reverse(Q,Path).
+
+travel(Start,Finish,P,[Finish|P]) :- 
+    move(Start,Finish).
+
+travel(Start,Finish,Visited,Path) :-
+    move(Start,C),           
+    C \== Finish,
+    \+member(C,Visited),
+    travel(C,Finish,[C|Visited],Path). 
+
+move(X,Y) :- to_start(X,Y).
+
+% To start Y, need X
+to_start(X,Y) :- rel_fs(X,Y) ; rel_ss(X,Y).
+
+% To finish Y, need X
+to_finish(X,Y) :- rel_ff(X,Y) ; rel_sf(X,Y).
+") or {panic(err)}
+
+
+
 	prolog_out.close()
 
 }
