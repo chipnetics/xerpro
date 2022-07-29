@@ -3,7 +3,6 @@ src/*.xer
 src/*.exe
 src/*.txt
 src/*.bat
-src/*.pl
 src/xerpro
 src/baytown/*
 
